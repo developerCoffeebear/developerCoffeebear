@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @developerCoffeebear
 - 👀 I’m interested in 정보보안
-- 🌱 I’m currently learning 기초
-- 💞️ I’m looking to collaborate on 정보보안 기초
+- 🌱 I’m currently learning 암호학적 해시 함수,신원 기반 암호 알고리즘
+- 💞️ I’m looking to collaborate on 공개키 암호화 기법 연구
 - 📫 How to reach me discord
 - 😄 Pronouns: Coffee bear
 - ⚡ Fun fact: very imaginative
